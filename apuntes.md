@@ -170,16 +170,16 @@ Crea listas ordenadas (ol>) y no ordenadas (ul>). Dentro de estas etiquetas, se 
 <br>
 Para la etiqeta ol> para que salgan numeros donde sale la etqiueta li saldran 1, 2, 3, es decir una lista rodenada 
 
-![ejemplool](./APUNTS/EJEMPLOS/ejemplo%20lista.png)
+![ejemplool](./EJEMPLOS/ejemplo%20lista.png)
 
 Para la etiqueta ul> para que salgan puntos donde sale la etiqueta li>.
 
-![ejemploul](./APUNTS/EJEMPLOS/lista%20desordenada.jpg)
+![ejemploul](./EJEMPLOS/lista%20desordenada.jpg)
 
 
 ### Imágenes
 
-![ejemploimagen](./APUNTS/EJEMPLOS/ejemplo%20imagen%20html.png)
+![ejemploimagen](./EJEMPLOS/ejemplo%20imagen%20html.png)
 
 + La etiqueta img> se utiliza para insertar una imagen.
 + El atributo src especifica la ruta de la imagen, una URL.
@@ -196,14 +196,14 @@ Podemos crear tablas utilizando las etiquetas table>, tr> (fila), th> (encabezad
 Ejemplo de todo:
 
 
-![ejemplotable](./APUNTS/EJEMPLOS/ejemplo%20tablas.png)
+![ejemplotable](./EJEMPLOS/ejemplo%20tablas.png)
 
 <br>
 
 ### Elemento div en HTML
 El elemento div> es un contenedor genérico en HTML que se utiliza para agrupar otros elementos y aplicar estilos o manipularlos con CSS. Tambin se asignan identificadores (id) o clases (class) a los div> para hacer mas facil la selección con CSS. En resumen sirve para organizar y estructurar Ejemplo:
 
-![ejemplodiv](./APUNTS/EJEMPLOS/ejemplo%20div.png)
+![ejemplodiv](./EJEMPLOS/ejemplo%20div.png)
 ## Responsive Flex
 ### Que es
 Puedes organizar elementos de una manera que se adapte a diferentes tamaños de pantalla y dispositivos.
