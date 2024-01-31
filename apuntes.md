@@ -154,7 +154,7 @@ Y así con las diferentes etiquetas , tambien se pueden añadir mas valores y cr
 Es el lenguaje estándar utilizado para estructurar y presentar contenido en la web.
 ### Estructura básica de HTML
 
-![ejemplohtml](./APUNTS/EJEMPLO%20HTML.png)
+![ejemplohtml](./EJEMPLOS/EJEMPLO%20HTML.png)
 
 Todo documento de HTML sigue una estructura basica, donde pone body nosotros escribiremos nuestro contenido de la página web.En el head añadiremos nuestro documento CSS.
 
