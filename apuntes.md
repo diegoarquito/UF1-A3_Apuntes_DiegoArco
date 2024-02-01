@@ -218,7 +218,8 @@ Agregamos Bootstrap en la sección head> con
 <br>
 link rel="stylesheet" href="ruta/bootstrap.min.css"
 <br> 
-Y en la seccion abajo del body pondremos:
+Dentro de nuestro contenido copiares los diferentes div que saldran en la pagina de Bootstrap y,
+en la seccion abajo del body pondremos las rutas que queremos y mejor se adapten a nuestra web Por ejemplo:
 <br>
 "script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity
 ="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"/script"
